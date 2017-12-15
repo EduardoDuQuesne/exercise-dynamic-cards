@@ -1,0 +1,50 @@
+body {
+    background-color: peachpuff;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    color: maroon;
+    text-shadow: .03em .03em white;
+
+}
+
+button {
+    display: block;
+    margin: 1em auto;
+}
+
+.text-input {
+    display: block;
+    margin: 0 auto;
+}
+
+.in-cards {
+    width: 325px;
+    height: 300px;
+    padding: 2em;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 2em;
+    border: 3px solid black;   
+    border-radius: 20px 0;
+    box-shadow: 0em 0em .8em lightpink;
+    background-color: lightskyblue;
+
+}
+
+.in-cards {
+    margin: .5em auto;
+    margin-top: 2em; 
+    text-shadow: .03em .03em lightgrey;
+    font-size: 1.4em;
+
+.delete-button {
+    margin-top: .5em;
+}
+
+.color-change {
+    background-color: lightpink !important;
+}
